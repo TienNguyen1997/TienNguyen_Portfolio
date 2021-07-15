@@ -1,7 +1,7 @@
 # TienNguyen_Portfolio
 Data Analysis Projects Portfolio
 
-# Project 1: Walmart Sale Exploratory Analysis
+[# Project 1: Walmart Sale Exploratory Analysis](https://github.com/TienNguyen1997/Walmart-Sale-Exploratory-Analysis)
 Requirements:
 * Which store has maximum sales
 * Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out co-efficient of variance
