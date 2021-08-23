@@ -9,7 +9,7 @@ Data Analysis Projects Portfolio
 * Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together
 * Provide a monthly graph on Sale Performance
 
-![](/Images/Walmart%20EDA%20Project_Monthly%20Sale%20Over%20Years.png?raw=true)
+![](https://raw.githubusercontent.com/TienNguyen1997/TienNguyen_Portfolio/main/Images/Walmart%20EDA%20Project_Monthly%20Sale%20Over%20Years.png)
 
 # [Project 2: Video Game Data Cleaning](https://github.com/TienNguyen1997/Video-Game-Data-Cleaning)
 # Video-Game-Data-Cleaning
