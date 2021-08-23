@@ -10,3 +10,8 @@ Data Analysis Projects Portfolio
 * Provide a monthly graph on Sale Performance
 
 ![](/Images/Walmart%20EDA%20Project_Monthly%20Sale%20Over%20Years.png?raw=true)
+
+# [Project 2: Video Game Data Cleaning](https://github.com/TienNguyen1997/Video-Game-Data-Cleaning)
+# Video-Game-Data-Cleaning
+The purpose of this project is to clean a dataset about Video Game Sales retrieved from [Kaggle](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings). The dataset contains 16,719 rows and 16 columns in which rating-related columns have a large amount of missing values. Deleting all these errors would result in inappropriate data analysis result. Therefore, a various methods of filling based on data from other columns and records in the dataset were performed. More details are displayed in the [Jupyter Notebook](https://github.com/TienNguyen1997/Video-Game-Data-Cleaning/blob/main/Video%20Game%20Data%20Cleaning.ipynb) file.
+![](https://raw.githubusercontent.com/TienNguyen1997/Video-Game-Data-Cleaning/main/Dataset%20info%20before%20and%20after.png)
